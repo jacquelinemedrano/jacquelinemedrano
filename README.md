@@ -1,5 +1,5 @@
 -  Hi, I’m Jacqueline Medrano.
--  I’m interested in expanding my knowledge of anything related to computer science.
+-  I’m interested in expanding my knowledge of anything related to Computer Science and Applied Mathematics
 -  I’m looking to collaborate on anything beginner-friendly.
 -  How to reach me: through here or on LinkedIn.
 
